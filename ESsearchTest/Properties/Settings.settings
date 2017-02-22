@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ESsearchTest.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="URI" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://e18c899a76f80d5ed90149aa864bc760.eu-west-1.aws.found.io:9200/</Value>
+    </Setting>
+    <Setting Name="Auth" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="Username" Type="System.String" Scope="User">
+      <Value Profile="(Default)">admin</Value>
+    </Setting>
+    <Setting Name="Password" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1pwnuk3ui89qllpci0</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
